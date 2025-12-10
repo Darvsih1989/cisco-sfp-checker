@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+active_sfp_routers.txt
+*.log
